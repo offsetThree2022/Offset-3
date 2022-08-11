@@ -1,7 +1,7 @@
 ## Offset^3Net
 ### Requirements
 - CUDA >= 9.0
-- Python 3.7.0
+- Python 3.6.0
 - An easy way to install the env, using conda to install the requirements.txt. conda install --yes --file requirements.txt
 - PyTorch >= 1.3.1
   - Note that, a very nice 3d tools to vis the detection and tracking result. [vispy](https://github.com/vispy)
